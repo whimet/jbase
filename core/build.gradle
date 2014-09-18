@@ -1,0 +1,5 @@
+
+dependencies {
+    compile project(':utils')
+    compile 'org.springframework.boot:spring-boot-starter-data-jpa:1.1.6.RELEASE'
+}
